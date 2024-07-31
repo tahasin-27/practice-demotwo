@@ -1,2 +1,3 @@
 # practice-demotwo
-<p>This is my second repository</p>
+This is my second repository.
+author - Tahasin Nowar
