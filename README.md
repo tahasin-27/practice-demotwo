@@ -1,4 +1,4 @@
 # practice-demotwo
 This is my second repository.
 <br>
-author - Tahasin Nowar
+author - Tahasin Nowar Rahman
